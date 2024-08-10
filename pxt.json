@@ -1,0 +1,13 @@
+{
+  "name": "Game Handle Compact Version",
+  "description": "Extension for Yahboom Game Handle Compact Version",
+  "dependencies": {},
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "targetVersions": {
+    "branch": "v2.0.0",
+    "target": "microbit"
+  }
+}
